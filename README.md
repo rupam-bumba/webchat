@@ -53,33 +53,28 @@ npm start
 
 The application should now be running at http://localhost:3000.
 
-Backend
+### Backend
 Navigate to the server directory:
 cd server
 
 
-Install dependencies:
-Copy code
+### Install dependencies:
 npm install
 
 Rename the .env.example file to .env and update the necessary environment variables such as the MongoDB connection string and JWT secret key.
 
 Start the Node.js server:
-
-Copy code
 npm start
-
-
 The server should now be running at http://localhost:5000.
 
-Usage
+### Usage
 Register for an account or log in.
 Create or join a chat room.
 Start sending and receiving real-time messages.
 Contributing
 If you'd like to contribute to this project, please follow these guidelines:
 
-Fork the repository.
+### Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and test thoroughly.
 Create a pull request with a clear description of the changes.
